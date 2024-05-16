@@ -1,0 +1,23 @@
+{
+  "name": "books_api",
+  "version": "1.0.0",
+  "description": "simple book api for backend  tasks",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Damilare Fadodun",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
